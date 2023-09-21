@@ -8,7 +8,7 @@ function App() {
       <Router>
         <div className="main_section bg-slate-500">
           <Header />
-          hey
+          <h2 className="text-white">Hey tailwind</h2>
         </div>
       </Router>
     </>
