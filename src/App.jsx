@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Router>
-        <div className="main_section bg-slate-500">
+        <div className="main_section">
           <Header />
           <h2 className="text-white">Hey tailwind</h2>
         </div>
